@@ -1,6 +1,6 @@
 ## Smart_Web_Search
 
-🔍 Software conecpt for accumulating and creating web search words.
+🔍 Software concept for accumulating and creating web search words.
 
 ### PROCESS THEORY
 
