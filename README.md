@@ -2,21 +2,21 @@
 
 #
 
-### PROCESS
+#### PROCESS
 
 Web Searches ⇉ Search Word Accumulation ⇉ Related Search Word Accumulation → Web Searches
 
-### CONCEPT
+#### CONCEPT
 
 Improving web searching using search word accumulation from previous web searches.
 
-### USES
+#### USES
 
 - Smart web searching.
 - Deeper Google searches.
 - Precise Google searching.
 
-### FEATURES
+#### FEATURES
 
 - Accumulative search word history.
 
